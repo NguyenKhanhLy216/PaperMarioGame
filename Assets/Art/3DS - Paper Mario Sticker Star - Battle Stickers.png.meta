@@ -1,0 +1,2921 @@
+fileFormatVersion: 2
+guid: 10f09414fe694ef41807dfcb949c8417
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1170
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473af84f562ebda4487ab64caec65123
+      internalID: 1682449311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1170
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4359868164a3faf408954123fcf2c891
+      internalID: 319256701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1170
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20d395bcfc69424cb979b871f762398
+      internalID: -1493005245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1171
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cf0f30b3d1f284693bebda84319246
+      internalID: -2135855714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1171
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28333bbce4705af4bbcb0235d1fd1f14
+      internalID: 940157166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1171
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57d91162da45084396e70d217c110c3
+      internalID: 1929172413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_6
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1171
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7150ecec6e917754bb3084c3054affc4
+      internalID: 207476986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_7
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1170
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6039e768a9c0804dbcca0f228740523
+      internalID: 18785800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1149
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb34971c11d5709499128063f85bbd75
+      internalID: -1899324216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_9
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1145
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be03b32feade0894fb7c41920486fcdd
+      internalID: 1687974410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_10
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1146
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566dd8986cabd3a4a9fbc60b3e9d25a3
+      internalID: -53261618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_11
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1146
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985592af08f8de54780ec6f178f52f88
+      internalID: 1157025913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_12
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1107
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969b584df6e51b249be850dd6cabc609
+      internalID: 1230918409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_13
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1100
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d0e18530e0fb840852037b856b0473
+      internalID: -197080754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_14
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1107
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528fd6d5d70164e43b52d2b0fd36c58c
+      internalID: 1298460940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_15
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1093
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa3ee1cb9c9cca45b5a7a1ef7f96427
+      internalID: -305160852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1104
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e8a64cccd23af42a0db21ff6c29a11
+      internalID: -975202215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1104
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c720b0dcb9f11c498d4cd2f4443829d
+      internalID: 1362119770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1104
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527b60d3e38ffd845b77aade9ba2ff0b
+      internalID: 1180059159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1106
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3da3e877be8b254f96aaffd92c9e4fc
+      internalID: 1073618479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1041
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f113cca4b461809488da8a62804a02e2
+      internalID: 1156428344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1041
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c7a9750ec9d9d4286e4355eabd0ebe
+      internalID: -236886166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1041
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7fd06a0ef628541a0b869b1646be72
+      internalID: 390197479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_23
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1044
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2229147c8ab6bdd4196f9e314990eedf
+      internalID: 51869995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_24
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1044
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a589a593185c44fb8e5195358b7df1
+      internalID: 549010856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_25
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1044
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fb7ca4ef8d5874c9382f923121932f
+      internalID: 454898798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_26
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1020
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf922bb699e29c240b861ec5e5d6e583
+      internalID: 1864412979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_27
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1018
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5826575d4d967408592ef6b127effd
+      internalID: 1642510769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_28
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1027
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b147047f92535a4cab565c9b3d7a7df
+      internalID: 1311225843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_29
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1027
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3b5fda5a8db9b4198a3429a7bff596
+      internalID: 30930353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_30
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 974
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf38195903e69341b1d647298b6455e
+      internalID: -971137557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_31
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 978
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2615c81601926a1469c692c163742114
+      internalID: -1331908142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_32
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 978
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd3383d274c84143ab3a84ea2d7a2f9
+      internalID: -794991456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_33
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 965
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ab64b76dbaa0a40b2deceefc726107
+      internalID: 1123717117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 977
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd84956a0f0454e4fbeabfa9da49658f
+      internalID: -2059510475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_35
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 977
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e47e6d26c183e45abef961d358da3b
+      internalID: -1439113823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 977
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24a75d4e43b9dc4b8477777490d1e2e
+      internalID: -513033057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_37
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 980
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd2a7c5c51fb8843a5def64b90e413e
+      internalID: -2036729121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 978
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4d72501dbd72f49b99f8684798ab14
+      internalID: 490443328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_39
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 978
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6300c52e237bb1418d424bcfe439082
+      internalID: -19468608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 913
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e642669c68146043b52a9c803836336
+      internalID: -1600940021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 913
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf63788f1967a3c4a9c470bab4dcfaa2
+      internalID: 1507760012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_42
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 913
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77fe68e9ac02f14e9b4f0b33c8e236b
+      internalID: -797040801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_43
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 913
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9feb9ad219b3648965be08982b32c5
+      internalID: -197258436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_44
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 913
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2332ec8900cd1064fa4f7798fa9c6727
+      internalID: 842778598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_45
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 889
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6b0c1dd23d97f4eb5ad4f48b9db0b1
+      internalID: -1392583147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_46
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 889
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8400dbc0d8940234ab61a0e10decada3
+      internalID: 959815247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_47
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 890
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0905c7805cfb83740bcff83872a18608
+      internalID: -1171189110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_48
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 890
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f6b8b503b2107438c4633bedacc9a1
+      internalID: -1566873742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_49
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 850
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d17823156709594ca84bc2075c3de01
+      internalID: 1618123994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_50
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 837
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07e9c0087a60ba42a90f8c64b8b286d
+      internalID: -582450588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 849
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349804ba54b339b4cb67a6d9aed5372d
+      internalID: 1033851428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 849
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9d43da4b85d2d4cbc1a40a847aec21
+      internalID: -1200270418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_53
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 850
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91378258510981c41bc36a4f9ebd95e7
+      internalID: 826467780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_54
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 850
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e298952254ee96c46abf07b8a5c63088
+      internalID: -214647737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_55
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 850
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a069f1ca3a4eb4b9299c98ab1ab76c
+      internalID: -688582427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 785
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451e1e6b05e79974fa08105656e531f1
+      internalID: -1148941494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_57
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 784
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5be2aa614c1874438fba966653f88e4
+      internalID: -924640338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_58
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 784
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a6a946f88e2334c8f9c1958025137a
+      internalID: -26146197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_59
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 761
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8542c88c7c82b4f8705c4062e89848
+      internalID: 539443917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_60
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 761
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8dc3f0d38d8fd4188a1e96e863e9ba
+      internalID: 95337564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_61
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 763
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5eac97ccc52214fb3a716b84acad21
+      internalID: 204229625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_62
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 763
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4f50b1f6b58bd44be18158c00b84f3
+      internalID: -461604878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_63
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 763
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42768804e592034448f5faed5af56459
+      internalID: 2054663787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_64
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 709
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72bc3cff347aa04dbf35d74c9a26107
+      internalID: -1862858812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_65
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 720
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c636c8bdfe2a3cb4da618fdfd6924a29
+      internalID: 400017919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_66
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 662
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423b259680a9fbc46bde821b7ee2e892
+      internalID: -168952779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_67
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 661
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0383d088fa56ca1478892c0923a30e18
+      internalID: 212026486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_68
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 663
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac41e5453df7b4a489b20b7c96b36b74
+      internalID: 1068299112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_69
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 661
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df14b3c2bf4b0441addb2e2307ee6f5
+      internalID: 610316252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_70
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 661
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc0a7a891e8ebf48b9f63eb93ca0baf
+      internalID: -1860002873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 661
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6577fb9480ca448983ce05385f1e3e
+      internalID: 235341693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_72
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 661
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b64a1233dd24742b50ea2196da90fb
+      internalID: -1119756512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_73
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 657
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc26d319ac423a4bb74aba4c535b9c5
+      internalID: -289683887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_74
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 661
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e362d9d78ced44d83e17479e12c9b5
+      internalID: -1955905210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_75
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 657
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34225a40b3c636447a0e81d2f3cc4518
+      internalID: -1625599568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_76
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 658
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb38a72352c288844967bfdccc1c24e4
+      internalID: -1114347314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_77
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 633
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16911ec34bc1ea41b526c40a8284542
+      internalID: 24155373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_78
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 633
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aaf75743c2dd9408e2ed474f3a7fdb
+      internalID: 1766368290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_79
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 638
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fb64a6cb3a1e740b1f2551a9d593ee
+      internalID: 629267919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_80
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 581
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ada10f6738f7ef458cb73fb5486e430
+      internalID: -1904140042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_81
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 596
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7d202632488584d85c2fde9c84296b
+      internalID: -652655186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_82
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 596
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bd3cb830b034548b3978142805125e
+      internalID: -1763668135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_83
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 596
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabea84f0a9230a448ebd87ada4d0885
+      internalID: -977240987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_84
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 592
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a51ba1c3ff1814aac234388b31b1d8
+      internalID: -525640074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_85
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 593
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573a2439e2f0cae42899eb69db315ed3
+      internalID: -539785056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_86
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 596
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1bda582316aee4e82f9ea9c48045da
+      internalID: 931619090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_87
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 592
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7c5d3f5c56f4247956c71fcbc88fc2
+      internalID: 1806182390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_88
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 528
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a6ba0f21d743445af1804f06b29fec
+      internalID: 1083945077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_89
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 533
+        width: 116
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4a778c7a5b93547877ed9b17a0b21b
+      internalID: 1262648644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_90
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 536
+        width: 102
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823773ae2e85b8e46bcd207a2e473bec
+      internalID: -635293274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_91
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 531
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8a548563ec5194cae1105e6cd4f1e5
+      internalID: 1000227162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_92
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 531
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fd000252708a746a39ff5c0d24551d
+      internalID: 1345822612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_93
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 531
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54b055c5055cd54490bcf391221d88e
+      internalID: -1753909742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_94
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 530
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a274c9398fd444647926f62d500220a6
+      internalID: 1303811908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_95
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 533
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9260a946c6e8617419534796dbe65320
+      internalID: -641798759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_96
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 528
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a951cb7977f684f8e5b08d557085c6
+      internalID: 427720829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_97
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 505
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e77ea6eb26977d409d9fe245b281468
+      internalID: 659078558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_98
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 464
+        width: 121
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37709715a94418243b031ce1c098ae7f
+      internalID: 2138827934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_99
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 467
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fe073c4bcab314aa41d4fe8726b80c
+      internalID: 287487594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_100
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 467
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1c9f06c648df645b26d3e9b8751d92
+      internalID: -1124225625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_101
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 467
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d4ca6f64ebc274398413c76ea70dd6
+      internalID: 1732620704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_102
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 465
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abedb80546154f146a14e909c86bdd9c
+      internalID: -364515372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_103
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 465
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbad551cb678d2488ef66c4c03fb336
+      internalID: 1706032085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_104
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 465
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b060e1d51924994b86f02a9ac8f3354
+      internalID: -475247051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_105
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 447
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba525a49c2db31c44b83afb0f96a8b0b
+      internalID: 296922856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_106
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 445
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721d5e67621ac60468ed04e9e59ea69b
+      internalID: -111784083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_107
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 396
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3e221e870e9b74197e9ae05c2f85ca
+      internalID: 1668221808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_108
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 396
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a569bc5546e3f994ca5a4ed6bfedeea3
+      internalID: 1084305489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_109
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 397
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bf00127b2b97845bef8fcb50ddd640
+      internalID: -1392724751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 404
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12c12f8c95ea9648ad28ac5041eefda
+      internalID: -1682927886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_111
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 407
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82b02462e3425f4297ea1ff4c76373d
+      internalID: 682061815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_112
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 407
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cded56a5571dd74e8070a3da7f3b24a
+      internalID: -1827129020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_113
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 377
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9369ea3867841347b9a62c2be4d0cfb
+      internalID: 1998432198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_114
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 340
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079579dd1a48c7e409a5c9b70dbd04cc
+      internalID: -1811018695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_115
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 318
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281f31b883adf204fb003102e8158a30
+      internalID: 1604163791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_116
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 318
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a07c8c947dd684cb68efe159a99507
+      internalID: -346935529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_117
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 258
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26b29a4f6cbb3d48928a45330259e1a
+      internalID: -1764330562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_118
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 192
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbf89c03a0d9394c80c8a34f22b2826
+      internalID: 1286637994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_119
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 187
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86e0650da5dca04fbc3cf42d9559825
+      internalID: -925086200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_120
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 249
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773bf17dc9e453d40a012c45b8de3c0b
+      internalID: -862397308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_121
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 249
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7470b414557c2ec41b7e2751a389653c
+      internalID: 1437154081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_122
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 249
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff049982733c124d8bcd6026bfaf8aa
+      internalID: -1646351549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_123
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 193
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84970a819f99fc41b5d2694623f9c44
+      internalID: 1697157997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_124
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 59
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f66b00d70b1a9409962a867de91a63
+      internalID: 245476137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_125
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 66
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de0b507641954747857db1a4a51cd10
+      internalID: 829420502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Paper Mario Sticker Star - Battle Stickers_126
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 66
+        width: 114
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b3987abc80677489f76c164caf2749
+      internalID: 425549632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2c87ebee5dec11b45aa65939886a8b36
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      3DS - Paper Mario Sticker Star - Battle Stickers_0: 1682449311
+      3DS - Paper Mario Sticker Star - Battle Stickers_1: 319256701
+      3DS - Paper Mario Sticker Star - Battle Stickers_10: -53261618
+      3DS - Paper Mario Sticker Star - Battle Stickers_100: -1124225625
+      3DS - Paper Mario Sticker Star - Battle Stickers_101: 1732620704
+      3DS - Paper Mario Sticker Star - Battle Stickers_102: -364515372
+      3DS - Paper Mario Sticker Star - Battle Stickers_103: 1706032085
+      3DS - Paper Mario Sticker Star - Battle Stickers_104: -475247051
+      3DS - Paper Mario Sticker Star - Battle Stickers_105: 296922856
+      3DS - Paper Mario Sticker Star - Battle Stickers_106: -111784083
+      3DS - Paper Mario Sticker Star - Battle Stickers_107: 1668221808
+      3DS - Paper Mario Sticker Star - Battle Stickers_108: 1084305489
+      3DS - Paper Mario Sticker Star - Battle Stickers_109: -1392724751
+      3DS - Paper Mario Sticker Star - Battle Stickers_11: 1157025913
+      3DS - Paper Mario Sticker Star - Battle Stickers_110: -1682927886
+      3DS - Paper Mario Sticker Star - Battle Stickers_111: 682061815
+      3DS - Paper Mario Sticker Star - Battle Stickers_112: -1827129020
+      3DS - Paper Mario Sticker Star - Battle Stickers_113: 1998432198
+      3DS - Paper Mario Sticker Star - Battle Stickers_114: -1811018695
+      3DS - Paper Mario Sticker Star - Battle Stickers_115: 1604163791
+      3DS - Paper Mario Sticker Star - Battle Stickers_116: -346935529
+      3DS - Paper Mario Sticker Star - Battle Stickers_117: -1764330562
+      3DS - Paper Mario Sticker Star - Battle Stickers_118: 1286637994
+      3DS - Paper Mario Sticker Star - Battle Stickers_119: -925086200
+      3DS - Paper Mario Sticker Star - Battle Stickers_12: 1230918409
+      3DS - Paper Mario Sticker Star - Battle Stickers_120: -862397308
+      3DS - Paper Mario Sticker Star - Battle Stickers_121: 1437154081
+      3DS - Paper Mario Sticker Star - Battle Stickers_122: -1646351549
+      3DS - Paper Mario Sticker Star - Battle Stickers_123: 1697157997
+      3DS - Paper Mario Sticker Star - Battle Stickers_124: 245476137
+      3DS - Paper Mario Sticker Star - Battle Stickers_125: 829420502
+      3DS - Paper Mario Sticker Star - Battle Stickers_126: 425549632
+      3DS - Paper Mario Sticker Star - Battle Stickers_13: -197080754
+      3DS - Paper Mario Sticker Star - Battle Stickers_14: 1298460940
+      3DS - Paper Mario Sticker Star - Battle Stickers_15: -305160852
+      3DS - Paper Mario Sticker Star - Battle Stickers_16: -975202215
+      3DS - Paper Mario Sticker Star - Battle Stickers_17: 1362119770
+      3DS - Paper Mario Sticker Star - Battle Stickers_18: 1180059159
+      3DS - Paper Mario Sticker Star - Battle Stickers_19: 1073618479
+      3DS - Paper Mario Sticker Star - Battle Stickers_2: -1493005245
+      3DS - Paper Mario Sticker Star - Battle Stickers_20: 1156428344
+      3DS - Paper Mario Sticker Star - Battle Stickers_21: -236886166
+      3DS - Paper Mario Sticker Star - Battle Stickers_22: 390197479
+      3DS - Paper Mario Sticker Star - Battle Stickers_23: 51869995
+      3DS - Paper Mario Sticker Star - Battle Stickers_24: 549010856
+      3DS - Paper Mario Sticker Star - Battle Stickers_25: 454898798
+      3DS - Paper Mario Sticker Star - Battle Stickers_26: 1864412979
+      3DS - Paper Mario Sticker Star - Battle Stickers_27: 1642510769
+      3DS - Paper Mario Sticker Star - Battle Stickers_28: 1311225843
+      3DS - Paper Mario Sticker Star - Battle Stickers_29: 30930353
+      3DS - Paper Mario Sticker Star - Battle Stickers_3: -2135855714
+      3DS - Paper Mario Sticker Star - Battle Stickers_30: -971137557
+      3DS - Paper Mario Sticker Star - Battle Stickers_31: -1331908142
+      3DS - Paper Mario Sticker Star - Battle Stickers_32: -794991456
+      3DS - Paper Mario Sticker Star - Battle Stickers_33: 1123717117
+      3DS - Paper Mario Sticker Star - Battle Stickers_34: -2059510475
+      3DS - Paper Mario Sticker Star - Battle Stickers_35: -1439113823
+      3DS - Paper Mario Sticker Star - Battle Stickers_36: -513033057
+      3DS - Paper Mario Sticker Star - Battle Stickers_37: -2036729121
+      3DS - Paper Mario Sticker Star - Battle Stickers_38: 490443328
+      3DS - Paper Mario Sticker Star - Battle Stickers_39: -19468608
+      3DS - Paper Mario Sticker Star - Battle Stickers_4: 940157166
+      3DS - Paper Mario Sticker Star - Battle Stickers_40: -1600940021
+      3DS - Paper Mario Sticker Star - Battle Stickers_41: 1507760012
+      3DS - Paper Mario Sticker Star - Battle Stickers_42: -797040801
+      3DS - Paper Mario Sticker Star - Battle Stickers_43: -197258436
+      3DS - Paper Mario Sticker Star - Battle Stickers_44: 842778598
+      3DS - Paper Mario Sticker Star - Battle Stickers_45: -1392583147
+      3DS - Paper Mario Sticker Star - Battle Stickers_46: 959815247
+      3DS - Paper Mario Sticker Star - Battle Stickers_47: -1171189110
+      3DS - Paper Mario Sticker Star - Battle Stickers_48: -1566873742
+      3DS - Paper Mario Sticker Star - Battle Stickers_49: 1618123994
+      3DS - Paper Mario Sticker Star - Battle Stickers_5: 1929172413
+      3DS - Paper Mario Sticker Star - Battle Stickers_50: -582450588
+      3DS - Paper Mario Sticker Star - Battle Stickers_51: 1033851428
+      3DS - Paper Mario Sticker Star - Battle Stickers_52: -1200270418
+      3DS - Paper Mario Sticker Star - Battle Stickers_53: 826467780
+      3DS - Paper Mario Sticker Star - Battle Stickers_54: -214647737
+      3DS - Paper Mario Sticker Star - Battle Stickers_55: -688582427
+      3DS - Paper Mario Sticker Star - Battle Stickers_56: -1148941494
+      3DS - Paper Mario Sticker Star - Battle Stickers_57: -924640338
+      3DS - Paper Mario Sticker Star - Battle Stickers_58: -26146197
+      3DS - Paper Mario Sticker Star - Battle Stickers_59: 539443917
+      3DS - Paper Mario Sticker Star - Battle Stickers_6: 207476986
+      3DS - Paper Mario Sticker Star - Battle Stickers_60: 95337564
+      3DS - Paper Mario Sticker Star - Battle Stickers_61: 204229625
+      3DS - Paper Mario Sticker Star - Battle Stickers_62: -461604878
+      3DS - Paper Mario Sticker Star - Battle Stickers_63: 2054663787
+      3DS - Paper Mario Sticker Star - Battle Stickers_64: -1862858812
+      3DS - Paper Mario Sticker Star - Battle Stickers_65: 400017919
+      3DS - Paper Mario Sticker Star - Battle Stickers_66: -168952779
+      3DS - Paper Mario Sticker Star - Battle Stickers_67: 212026486
+      3DS - Paper Mario Sticker Star - Battle Stickers_68: 1068299112
+      3DS - Paper Mario Sticker Star - Battle Stickers_69: 610316252
+      3DS - Paper Mario Sticker Star - Battle Stickers_7: 18785800
+      3DS - Paper Mario Sticker Star - Battle Stickers_70: -1860002873
+      3DS - Paper Mario Sticker Star - Battle Stickers_71: 235341693
+      3DS - Paper Mario Sticker Star - Battle Stickers_72: -1119756512
+      3DS - Paper Mario Sticker Star - Battle Stickers_73: -289683887
+      3DS - Paper Mario Sticker Star - Battle Stickers_74: -1955905210
+      3DS - Paper Mario Sticker Star - Battle Stickers_75: -1625599568
+      3DS - Paper Mario Sticker Star - Battle Stickers_76: -1114347314
+      3DS - Paper Mario Sticker Star - Battle Stickers_77: 24155373
+      3DS - Paper Mario Sticker Star - Battle Stickers_78: 1766368290
+      3DS - Paper Mario Sticker Star - Battle Stickers_79: 629267919
+      3DS - Paper Mario Sticker Star - Battle Stickers_8: -1899324216
+      3DS - Paper Mario Sticker Star - Battle Stickers_80: -1904140042
+      3DS - Paper Mario Sticker Star - Battle Stickers_81: -652655186
+      3DS - Paper Mario Sticker Star - Battle Stickers_82: -1763668135
+      3DS - Paper Mario Sticker Star - Battle Stickers_83: -977240987
+      3DS - Paper Mario Sticker Star - Battle Stickers_84: -525640074
+      3DS - Paper Mario Sticker Star - Battle Stickers_85: -539785056
+      3DS - Paper Mario Sticker Star - Battle Stickers_86: 931619090
+      3DS - Paper Mario Sticker Star - Battle Stickers_87: 1806182390
+      3DS - Paper Mario Sticker Star - Battle Stickers_88: 1083945077
+      3DS - Paper Mario Sticker Star - Battle Stickers_89: 1262648644
+      3DS - Paper Mario Sticker Star - Battle Stickers_9: 1687974410
+      3DS - Paper Mario Sticker Star - Battle Stickers_90: -635293274
+      3DS - Paper Mario Sticker Star - Battle Stickers_91: 1000227162
+      3DS - Paper Mario Sticker Star - Battle Stickers_92: 1345822612
+      3DS - Paper Mario Sticker Star - Battle Stickers_93: -1753909742
+      3DS - Paper Mario Sticker Star - Battle Stickers_94: 1303811908
+      3DS - Paper Mario Sticker Star - Battle Stickers_95: -641798759
+      3DS - Paper Mario Sticker Star - Battle Stickers_96: 427720829
+      3DS - Paper Mario Sticker Star - Battle Stickers_97: 659078558
+      3DS - Paper Mario Sticker Star - Battle Stickers_98: 2138827934
+      3DS - Paper Mario Sticker Star - Battle Stickers_99: 287487594
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

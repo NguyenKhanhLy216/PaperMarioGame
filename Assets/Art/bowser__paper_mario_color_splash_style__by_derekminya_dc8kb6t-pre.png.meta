@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: a2ea23fccde93f44b83fb6c5d0984c9a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_22
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 546
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d901c7d0f51e7564b971ddd593079712
+      internalID: 43961416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_23
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 546
+        width: 107
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5688ec597a2e6974784d8880b5b4eaea
+      internalID: -1658292754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_40
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 181
+        width: 126
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4960079, y: 0.6393879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc21f93ae38a1d4d81472a1def7ebcc
+      internalID: -1613911611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_42
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 181
+        width: 126
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65150875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dab7b76f69eed248855cca52dc4fc1d
+      internalID: -689928056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_43
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 181
+        width: 126
+        height: 83
+      alignment: 9
+      pivot: {x: 0.49201602, y: 0.6333276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d559b1468daa54b91d64f10f7e1b0a
+      internalID: -453601385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_0
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 188
+        width: 102
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106c566c25f16664fbb204d5a76bb116
+      internalID: 1416298135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 828eadddc24df0742aca144a3e61f0d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_0: 1416298135
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_1: 1836819923
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_10: -1682272520
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_11: -401723760
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_12: -1860904363
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_13: -111064956
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_14: -494714542
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_15: -1700626986
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_16: -869040582
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_17: 469467715
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_18: -648383195
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_19: -290083368
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_2: -205150070
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_20: -532684766
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_21: -1615654362
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_22: 43961416
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_23: -1658292754
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_24: 218464993
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_25: -349086453
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_26: -650499313
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_27: 666407086
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_28: -1592861350
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_29: -1543582371
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_3: 1226919047
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_30: 1720212865
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_31: -371719727
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_32: -928177079
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_33: 1104223804
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_34: -1862272222
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_35: -671261748
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_36: 883351828
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_37: 1801660760
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_38: 786051581
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_39: -1622551757
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_4: -2121679943
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_40: -1613911611
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_41: -1189602765
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_42: -689928056
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_43: -453601385
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_44: -1774506612
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_45: -1132051793
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_46: -62938977
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_47: 727742935
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_48: 1090573041
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_49: -818845953
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_5: -1230921105
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_50: -30715770
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_51: -1086513676
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_52: 1888286423
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_53: -5035395
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_54: -1510959580
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_55: -22690479
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_56: 786819228
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_57: 1730612818
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_58: -1544612616
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_59: -1590158064
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_6: -1288247359
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_60: -710102779
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_7: 1497046826
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_8: 1013643077
+      bowser__paper_mario_color_splash_style__by_derekminya_dc8kb6t-pre_9: -1119504418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

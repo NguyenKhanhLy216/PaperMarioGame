@@ -1,0 +1,4131 @@
+fileFormatVersion: 2
+guid: b8869ca39de60ea429acbdc480a5a3f4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3370
+        width: 176
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f27741f7522c74aa25fda30c13ffda
+      internalID: 1167628482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3370
+        width: 176
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e15b4446572f540804f3040b0da0f1
+      internalID: 1584484613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3370
+        width: 176
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4408f21163539e442a65f9d9be9c3b5b
+      internalID: 1107344755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_3
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3368
+        width: 176
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4846846a61686e44823e7d37b0b45ac
+      internalID: -509051093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_4
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 3370
+        width: 187
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65112bb5d268a44ca53f8871e28a555
+      internalID: -1374684242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_5
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 3370
+        width: 176
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5cd01c4980a364cbe52ff99f322cdc
+      internalID: 2069651592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_6
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 3368
+        width: 178
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d83c39cbba9177418ccce3237ad0c5f
+      internalID: 40879056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_7
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 3368
+        width: 176
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014bff75b348f5d42a974a21376894a4
+      internalID: 1421660314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_8
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 3370
+        width: 176
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c64ca8720e5b64408da05675996649b
+      internalID: -45417735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_9
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 3370
+        width: 183
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244ea957e4c850147ab7a7928bca8994
+      internalID: -1720023425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_10
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 3370
+        width: 178
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a873915befb5940a09b3c140e14371
+      internalID: 1094343361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_11
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 3370
+        width: 174
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d009e1cec74e5d4981e4b5b9b2fc069
+      internalID: -2130255046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_12
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 3370
+        width: 172
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70f1b5c1ca23f54e843ba379ca641a8
+      internalID: -728293129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_13
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 3370
+        width: 178
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba19b655afe8b041a2d53612e45b823
+      internalID: 1391321926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3043
+        width: 178
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c2c3c31bc6ef14aa12cb8a6ddc5719
+      internalID: 1369117002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3043
+        width: 176
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79fc1d25a53d0d4dac0b2d394238b3f
+      internalID: -1202568239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_16
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3041
+        width: 173
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b35ef226d9333a4ab75f1f89444fd29
+      internalID: 84514498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_17
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3045
+        width: 176
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3e21fec96fb8d4aba5fc72f0359d30
+      internalID: 755213360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_18
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 3045
+        width: 178
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b50bb1f6b98104e9b50d24c9ab6e1d
+      internalID: -965150491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_19
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 3045
+        width: 174
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c123de2cd8be0d4da227845e565c463
+      internalID: 1784826757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_20
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 3045
+        width: 176
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082abf7d7a1529a4cab8b86d418dbd19
+      internalID: -811683969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_21
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 3045
+        width: 178
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea4de1069193fc40b8f44638b66cb72
+      internalID: 1096302844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_22
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 3041
+        width: 178
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b40f6a64cdddef47a97d150ce4b2845
+      internalID: 643305010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_23
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 3041
+        width: 176
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bfacbb315d0684aa7ed4ee7cabdece
+      internalID: 1479890401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_24
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 3041
+        width: 178
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e3a7c54963d754a9bc50a52bbc5bea
+      internalID: -939430732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_25
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 3041
+        width: 176
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5fcc1b6209b82448534e63a866c613
+      internalID: 910617086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_26
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 3041
+        width: 178
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f74ebe823af0d3479f6cfe343036604
+      internalID: 1600861450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_27
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 3041
+        width: 176
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b396460480169c04bb83f89e51fbfe13
+      internalID: 1148709989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_28
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 3045
+        width: 177
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47ba2b9b6b22e843a8e5c79c56184f2
+      internalID: -1706876749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2717
+        width: 176
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57e0b508b32e52409cf638818093886
+      internalID: 936771576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_30
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2717
+        width: 174
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bbfc3f11cd44b4ab6d7a627bba905f
+      internalID: -664041518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_31
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2717
+        width: 176
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7053797f00f4ee243b9117cb03caa79e
+      internalID: 662320652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_32
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2717
+        width: 176
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50b2f59d0e19a24aad8d849361329cd
+      internalID: -1843881210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_33
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2719
+        width: 187
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e3e636ad4587142825d29a02111743
+      internalID: -1030070254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_34
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2717
+        width: 176
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7d6ad35804936428c70723a433d720
+      internalID: -527922851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_35
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2717
+        width: 180
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf84bf28f145b454cad916f24b21a3e0
+      internalID: -957779160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_36
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 2716
+        width: 174
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a498ef0bece274f9721054b4c53c10
+      internalID: -504350925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_37
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2717
+        width: 175
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662a6239a0ec0134eab339e5ee4eb99c
+      internalID: -739364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_38
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 2717
+        width: 178
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994f63b941cbfe04abab4ea99747fa81
+      internalID: -1351959550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_39
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 2717
+        width: 175
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b5852ff231671418818a9c5046d71b
+      internalID: 1386406663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_40
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 2719
+        width: 176
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a035bb700eaf46746a0b3d84165a5161
+      internalID: 550805709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_41
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 2719
+        width: 174
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9517ed5a6d230340872b3a309fb48b9
+      internalID: -927531940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_42
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 2717
+        width: 174
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afded35ce22fedd4d86d7b650f7d46e6
+      internalID: -62655331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_43
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 2719
+        width: 178
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c27d5be3a6eb734cbe6df423cf09aaa
+      internalID: 433704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_44
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 2719
+        width: 178
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb760309c633bec4bbb20e799053dffa
+      internalID: 30116821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2392
+        width: 176
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28d5592be8d0674c8fa70b2650ad007
+      internalID: 1314323565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_46
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2390
+        width: 178
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a0c92d815d0f84e8130572a16df3be
+      internalID: 1610647703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_47
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2390
+        width: 176
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87632eb69cfb3454ca2b40c3d7da07ea
+      internalID: -338905600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_48
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2390
+        width: 174
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8779dac47cfa24f98235055442fbc8
+      internalID: 961836610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_49
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2390
+        width: 177
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba19f3d1ba06bf4f8e91697caae0e07
+      internalID: 623983806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_50
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 2390
+        width: 176
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3b9f57171e612448f78518010da41b
+      internalID: 1553676750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_51
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 2390
+        width: 170
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e56028fa4a413a46b5b02fc15aec550
+      internalID: 1815136990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_52
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 2390
+        width: 169
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80dae155e07e4d42b3556a52afb2529
+      internalID: 1656443273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_53
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2392
+        width: 176
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb8da3887e55fc478e4bc62cd9c74c5
+      internalID: -1464340005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_54
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 2392
+        width: 178
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd70ba955cc0cfb41a1dcc4a95fbeafa
+      internalID: -1640175408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_55
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 2392
+        width: 177
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d902e3525229e93458ccd970b4a47474
+      internalID: 1521606878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_56
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 2392
+        width: 178
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f64946f4cfe4341aad19e5e3c1b687
+      internalID: 1741481427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_57
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 2392
+        width: 178
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80b9d050af0bd04299d4990aafb0c62
+      internalID: -381415626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_58
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 2392
+        width: 176
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e9aa167ddde04aaf2c25a86667612
+      internalID: -1863294067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_59
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 2392
+        width: 176
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35343cc21644e434db8bd1604b56853a
+      internalID: 169795123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_60
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 2392
+        width: 177
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1905759ab7bcfa42bd504bc538cb312
+      internalID: -413753783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2067
+        width: 176
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ad81ffcb3645d4b957742fd1e9f7f5
+      internalID: 540687064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_62
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2067
+        width: 176
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc3c3f6bdbe9ac4693f67bd30f6bfd3
+      internalID: -1325682669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_63
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2067
+        width: 175
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f5b9d1e8db47e4e9f79c0642837a9d
+      internalID: -1592952102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_64
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2014
+        width: 193
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2a0bd9aaeafda48aac39b89526838b
+      internalID: 1439928690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_65
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 2014
+        width: 193
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2721e581f5190724b88b68afc2fc9ae1
+      internalID: 159067134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_66
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 2014
+        width: 193
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d00df5d185f314899b35c61bfa1a44
+      internalID: 716862649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_67
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 2027
+        width: 184
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbd5f1f6bdd539429a16a09dee6aed5
+      internalID: 1499667298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_68
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 2016
+        width: 199
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a960b20cece804a4b8b8d5fbbb339efb
+      internalID: -1613414528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_69
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 2016
+        width: 199
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5eea8fd52271514497152e98f10660a
+      internalID: 1651769242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_70
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2029
+        width: 203
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8e280ec2792544aacc6ddb18317e48
+      internalID: 1507629970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_71
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 2029
+        width: 203
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677c983fa440269489797e36febf82dc
+      internalID: -734139037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_72
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 2063
+        width: 230
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e130a9609f34f2145a07a1cbd4014080
+      internalID: 1998880531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_73
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 2065
+        width: 229
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa91e5d55937c14b885175f766aa615
+      internalID: -416654099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_74
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1662
+        width: 184
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf6c2c05cd472b4885b939d886c82dc
+      internalID: -1491378877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_75
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1700
+        width: 235
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963c2c4e9e83db24daa0bfdbdf361fa8
+      internalID: 1895656016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_76
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1700
+        width: 232
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7298895e7b324944ab3831cc37d10ed
+      internalID: 505405136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_77
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1698
+        width: 230
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06432e0fa7999a4db8f71766e70a1d8
+      internalID: -220287841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_78
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1700
+        width: 232
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d0257fcc5b12e449e710463ab439d6
+      internalID: 521425016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_79
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1703
+        width: 178
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa818ff2213bef4291e0b9b3ccf017d
+      internalID: 1845269042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_80
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1702
+        width: 178
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdd23144cd64ff4baaaeccfdf47364a
+      internalID: 226605502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_81
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1702
+        width: 178
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236a1ce8227c37d418340784aa07e60e
+      internalID: 592573535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_82
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 1703
+        width: 178
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2707c0300be77fd4aa5d0f359232fe38
+      internalID: 648981137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_83
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 1703
+        width: 178
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c303c875daed0e4195acfd2d604c323
+      internalID: -1854378026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_84
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 1703
+        width: 176
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3e1056016f5da489c09839eba6d8d6
+      internalID: -2047491926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_85
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1335
+        width: 182
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031e2f88957a1ac4e91ab01c2e04c0ca
+      internalID: 976824301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_86
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1335
+        width: 185
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a074cf5285ad2294cbfc0475807f3543
+      internalID: 273842654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_87
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1335
+        width: 180
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f4aea7cd3d77a4898caf2a37d909fd
+      internalID: 601129126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_88
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1335
+        width: 180
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb383d7ac7484e4f9af470f026c14af
+      internalID: -1226070858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_89
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1335
+        width: 179
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb674b167eecf1f4e9ebbafcf40f06d9
+      internalID: 658958584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_90
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1335
+        width: 178
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300f7dae795272641902b9ca2ba6507e
+      internalID: 224583007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_91
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1335
+        width: 178
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5d2abaaafd27e40b07d8659e89f650
+      internalID: 1712763881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_92
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1335
+        width: 176
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a235d601e343eb418f9205d4ca0b432
+      internalID: -2070912525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_93
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1376
+        width: 176
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fead846d61f8346bde5c189c6cc585
+      internalID: -1942946084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_94
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1376
+        width: 178
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b8003275559246a8abae8831230a2
+      internalID: 401704380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_95
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 1385
+        width: 218
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4c12318c9a2da4c9d6243f9f3451f4
+      internalID: 114094221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_96
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 1391
+        width: 214
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c57736ebd30dad4db751a3e8283fc70
+      internalID: 1514500052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_97
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 1387
+        width: 210
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f433ad3296c5742b4be73acbf013c9
+      internalID: 1833205025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_98
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 1391
+        width: 189
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2050c711ea01774eafbf6ab2e64921a
+      internalID: 1343735750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_99
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1387
+        width: 189
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa095d29ae266f74d8dc8bcc60b93881
+      internalID: 1775254430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_100
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 1376
+        width: 180
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9d5ddd7180650419359f8f12f4a3b3
+      internalID: -651916415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_101
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1004
+        width: 178
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7940c32081f9de4cb5091d11e1b00d2
+      internalID: 208522402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_102
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1002
+        width: 177
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d974f869fca17499b6aae029247aae
+      internalID: -135019865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_103
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1004
+        width: 178
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58559ba10dc2a7845a87a99d84b9e1a9
+      internalID: 802973264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_104
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1002
+        width: 176
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f8368e122659e44a46756597853cb5
+      internalID: -428186649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_105
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1020
+        width: 218
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c6de0ec4cf824488df08c5b869b0d5
+      internalID: 2061792787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_106
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1020
+        width: 215
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4a10a3536e3a8469a52717e0722870
+      internalID: -2063844265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_107
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1010
+        width: 222
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8588fd73cde79864caab3cfc0212d51f
+      internalID: 726931384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_108
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1051
+        width: 178
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a753f3a7faebe42a661f1574884179
+      internalID: -903437597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_109
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1051
+        width: 180
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d900803ef6497d40bb8a8b07fec3527
+      internalID: -1276020711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_110
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 1051
+        width: 177
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365cbea56d6fc914eb9255ca2e47c014
+      internalID: 1621766821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_111
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1051
+        width: 180
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1f2cf2b67d8f447908e26209896574
+      internalID: -1986557768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_112
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 1045
+        width: 184
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6d70fc9d94165428b43d5067759f6d
+      internalID: 1226881060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_113
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 1040
+        width: 166
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec94ab1c62ed3f4596bfb5e4edcd6c2
+      internalID: -815663325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_114
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 1047
+        width: 176
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5ca92921030704ea8e2aa9680c01e5
+      internalID: -2056054691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_115
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 1047
+        width: 177
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a953d30942b51dc47abf46e628945dcc
+      internalID: -1507943673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_116
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 682
+        width: 180
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3adcc23d5e0ad448a965bd3ce81f30
+      internalID: -943246649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_117
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 682
+        width: 181
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd42ed396843354ea4326bffa09dfc4
+      internalID: 168489780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_118
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 682
+        width: 181
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34fa828f8c652f42aaeddacaa4410b8
+      internalID: -1970474773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_119
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 682
+        width: 182
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d625b56fb73f30428d8a056cde12b6f
+      internalID: -1340076098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_120
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 682
+        width: 184
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bccb92a757f49429c778fe7b64d859
+      internalID: 1237496734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_121
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 682
+        width: 181
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3c875ea8d177540831a40d0b0be605
+      internalID: -75665375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_122
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 682
+        width: 182
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dffd0eba41c9ce4e9ace10e92242213
+      internalID: 1887260795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_123
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 682
+        width: 181
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd616a4b804c0f1469f86faff6ad8509
+      internalID: -628558986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_124
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 722
+        width: 176
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19869d272ba48d94d941209ec8e31ad8
+      internalID: -274002390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_125
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 722
+        width: 178
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf928eccb2f9dd74290b0ff2fd88d6d4
+      internalID: -1588531135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_126
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 722
+        width: 176
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30a944025b09e548b00d68adf2af85b
+      internalID: 1935877275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_127
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 722
+        width: 177
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7299a781e0832142bffcfc1148c48b4
+      internalID: 505080446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_128
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 369
+        width: 210
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d9b3c1105a05348a5002957d287a69
+      internalID: 751033242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_129
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 369
+        width: 188
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c92e54e3e6ab145978854b7d9b0822
+      internalID: 1486017129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_130
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 357
+        width: 177
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5056540795da54e44bb19ee752e0062c
+      internalID: -233778247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_131
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 357
+        width: 176
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902b3b3ecec25444f829c67e2f7cc0c3
+      internalID: 910326320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_132
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 357
+        width: 177
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce431c7814f81e44b027358f7a60321
+      internalID: -742297818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_133
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 357
+        width: 176
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797a48fbc45c5d64ca9f181aec7d2d3c
+      internalID: -1414601115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_134
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 357
+        width: 176
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9668af4a708b54d9472e12194cc6e1
+      internalID: -1121119997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_135
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 357
+        width: 174
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c038ea02f064f2b429a2e30f490e43c1
+      internalID: 1077708853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_136
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 26
+        width: 189
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23948ae5d3d71f841ba7f79d287bd878
+      internalID: -1199073616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_137
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 26
+        width: 182
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afd94a7713989e4c8da2651a1ba7fc8
+      internalID: -1505158832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_138
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 172
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a89f914691b6348bba1a0be0ebaa38
+      internalID: -1408326477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_139
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 172
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2fc9d564e9d884295234c4a53cdbcb
+      internalID: 189776537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_140
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 172
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78e65b7ecaff5240be927ee6d7452a1
+      internalID: -628068850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_141
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 172
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f0d4e2105360548b9ac641e4c7e524
+      internalID: 1062044420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_142
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 172
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c9c4279958cbe4c88d278db91296fc
+      internalID: -1020133802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_143
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 172
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e745b3000be2f4f8855b6f763a712b
+      internalID: -999040113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_144
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 172
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552d8e0a5a55f1f448d6401874f8ac93
+      internalID: -1615622745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_145
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 172
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f45a0c25589af349b1e1c327433fc15
+      internalID: 1979994804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_146
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 172
+        width: 20
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a64c58c6cce2e54f9aa828d8c4e6060
+      internalID: 566939007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_147
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 172
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8a922999a0b9444a4d29a3bf7dc11a
+      internalID: -1204361898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_148
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 218
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ebf8b9e557ad148a6b1177eb614f7a
+      internalID: -14728325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_149
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 172
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e54667169b54e4498ed4e5755d60c6b
+      internalID: -903384303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_150
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 172
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ad0484c93d4b74c917ea17f56889d5
+      internalID: 1890538266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_151
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 172
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb071b3994d4c749a5d353818b2acb1
+      internalID: 340364688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_152
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 172
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda1d5e96a9dc984c8a98be3f038a039
+      internalID: -672330662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_153
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 172
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32e1b99aae0faf4a9d09d0037f03bc1
+      internalID: 586990012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_154
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 172
+        width: 20
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a572a7c9b1c6a4b9fdc4e8326b97e6
+      internalID: 1119529264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_155
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 172
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f70512a230e6b4ba7d515f598442c4
+      internalID: -1912576889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_156
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 172
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f2573a27a9a80469d4b456f6341572
+      internalID: 1583551805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_157
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 172
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188e73642f8c27a41a21865325019dee
+      internalID: 580367096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_158
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 172
+        width: 20
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36de039b782d704b98c1b6ead3d591b
+      internalID: -335286855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_159
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 172
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649ce49caab84ce4185a4f5e30a16955
+      internalID: -1825581614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_160
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 172
+        width: 20
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3296d314890ceb849b5f4ef983497a3e
+      internalID: -129578662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_161
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 172
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ec41c74a1de034394793c3658bc53c
+      internalID: 1794415501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_162
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 172
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e404f0032371adc45996a49acf4e0f13
+      internalID: -1185730159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_163
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 172
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13cc254452e82d409231ce0334b836c
+      internalID: -1724880959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_164
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 51
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fea16781a6ef1478c55d902338ab5c
+      internalID: 1771088367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_165
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 51
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94027bf5cc7c6104d8b6d49628bf9c73
+      internalID: 537323530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_166
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 51
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23045371b2710a6488881d5444770f6b
+      internalID: 1093818149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_167
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 51
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0140e3b6c2ffd4342b1676943efdfa5c
+      internalID: 1466421381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_168
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 51
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93be60207e73b194eb858e6b0aa6457d
+      internalID: -1778741644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_169
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 51
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bc216bffd6f624dbe99a53fd8db4c9
+      internalID: 977326604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_170
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 51
+        width: 21
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcfc4b53d183f04596fc9411a69861c
+      internalID: 1276159970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_171
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 51
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe92762231ae2d145948839b1753d88f
+      internalID: 396271824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_172
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 51
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c035c248cbb81d14cac89a21c5b34a70
+      internalID: 415028928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_173
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 51
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a99f1fd583660a49add9031e67cea97
+      internalID: 2055582539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_174
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 51
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f76889f85ff96a429bbd8ec740c2210
+      internalID: -1480774305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_175
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 51
+        width: 48
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d731dcd09b6864597bbd00a3a8bb03
+      internalID: 671585602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_176
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 51
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abc782e09ef391458e0d95241553c87
+      internalID: -1992567840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_177
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 51
+        width: 34
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d77c0ca878d6b4aad39339cefa4e41
+      internalID: 436214041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_178
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 51
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c5198a98d710a40adba17b1c6b39cd
+      internalID: 2136960393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_179
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 51
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf8eaa6ff5e52d4884cee6cc26e0d04
+      internalID: -2065979982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_180
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 51
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd16d040c8e88bc4b99a2fe1dde102ca
+      internalID: 1720238369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo Switch - Paper Mario The Origami King - Princess Peach_181
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 51
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f971fcfebf6a23447b67a12235e6348d
+      internalID: 295461664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: df97a3858640f3643a50bc34ba488e6e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_0: 1167628482
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_1: 1584484613
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_10: 1094343361
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_100: -651916415
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_101: 208522402
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_102: -135019865
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_103: 802973264
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_104: -428186649
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_105: 2061792787
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_106: -2063844265
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_107: 726931384
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_108: -903437597
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_109: -1276020711
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_11: -2130255046
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_110: 1621766821
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_111: -1986557768
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_112: 1226881060
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_113: -815663325
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_114: -2056054691
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_115: -1507943673
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_116: -943246649
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_117: 168489780
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_118: -1970474773
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_119: -1340076098
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_12: -728293129
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_120: 1237496734
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_121: -75665375
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_122: 1887260795
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_123: -628558986
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_124: -274002390
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_125: -1588531135
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_126: 1935877275
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_127: 505080446
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_128: 751033242
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_129: 1486017129
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_13: 1391321926
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_130: -233778247
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_131: 910326320
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_132: -742297818
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_133: -1414601115
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_134: -1121119997
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_135: 1077708853
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_136: -1199073616
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_137: -1505158832
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_138: -1408326477
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_139: 189776537
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_14: 1369117002
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_140: -628068850
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_141: 1062044420
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_142: -1020133802
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_143: -999040113
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_144: -1615622745
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_145: 1979994804
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_146: 566939007
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_147: -1204361898
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_148: -14728325
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_149: -903384303
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_15: -1202568239
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_150: 1890538266
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_151: 340364688
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_152: -672330662
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_153: 586990012
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_154: 1119529264
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_155: -1912576889
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_156: 1583551805
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_157: 580367096
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_158: -335286855
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_159: -1825581614
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_16: 84514498
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_160: -129578662
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_161: 1794415501
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_162: -1185730159
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_163: -1724880959
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_164: 1771088367
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_165: 537323530
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_166: 1093818149
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_167: 1466421381
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_168: -1778741644
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_169: 977326604
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_17: 755213360
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_170: 1276159970
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_171: 396271824
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_172: 415028928
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_173: 2055582539
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_174: -1480774305
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_175: 671585602
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_176: -1992567840
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_177: 436214041
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_178: 2136960393
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_179: -2065979982
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_18: -965150491
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_180: 1720238369
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_181: 295461664
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_19: 1784826757
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_2: 1107344755
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_20: -811683969
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_21: 1096302844
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_22: 643305010
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_23: 1479890401
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_24: -939430732
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_25: 910617086
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_26: 1600861450
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_27: 1148709989
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_28: -1706876749
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_29: 936771576
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_3: -509051093
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_30: -664041518
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_31: 662320652
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_32: -1843881210
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_33: -1030070254
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_34: -527922851
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_35: -957779160
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_36: -504350925
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_37: -739364
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_38: -1351959550
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_39: 1386406663
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_4: -1374684242
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_40: 550805709
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_41: -927531940
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_42: -62655331
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_43: 433704
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_44: 30116821
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_45: 1314323565
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_46: 1610647703
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_47: -338905600
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_48: 961836610
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_49: 623983806
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_5: 2069651592
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_50: 1553676750
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_51: 1815136990
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_52: 1656443273
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_53: -1464340005
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_54: -1640175408
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_55: 1521606878
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_56: 1741481427
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_57: -381415626
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_58: -1863294067
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_59: 169795123
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_6: 40879056
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_60: -413753783
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_61: 540687064
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_62: -1325682669
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_63: -1592952102
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_64: 1439928690
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_65: 159067134
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_66: 716862649
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_67: 1499667298
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_68: -1613414528
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_69: 1651769242
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_7: 1421660314
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_70: 1507629970
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_71: -734139037
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_72: 1998880531
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_73: -416654099
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_74: -1491378877
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_75: 1895656016
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_76: 505405136
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_77: -220287841
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_78: 521425016
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_79: 1845269042
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_8: -45417735
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_80: 226605502
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_81: 592573535
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_82: 648981137
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_83: -1854378026
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_84: -2047491926
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_85: 976824301
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_86: 273842654
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_87: 601129126
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_88: -1226070858
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_89: 658958584
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_9: -1720023425
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_90: 224583007
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_91: 1712763881
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_92: -2070912525
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_93: -1942946084
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_94: 401704380
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_95: 114094221
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_96: 1514500052
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_97: 1833205025
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_98: 1343735750
+      Nintendo Switch - Paper Mario The Origami King - Princess Peach_99: 1775254430
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
